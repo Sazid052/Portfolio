@@ -16,9 +16,17 @@ Welcome to my portfolio repository! This space features my projects, primarily f
    - **Link**: [Combined-Mangrove-Recognition-Index-CMRI-in-GEE](https://github.com/Sazid052/Combined-Mangrove-Recognition-Index-CMRI-in-GEE)
    - **Description**: Implementation of the Combined Mangrove Recognition Index (CMRI) using Google Earth Engine (GEE) to identify mangrove forests. The project highlights the use of NDVI and NDWI indices for effective mangrove area estimation.
 
+4. **Excel VBA Multi-Plot Chart Generator for River Cross Section**
+   - **Link**: [Excel-VBA-Multi-Plot-Chart-Generator-for-River-Cross-Section](https://github.com/Sazid052/Excel-VBA-Multi-Plot-Chart-Generator-for-River-Cross-Section)
+   - **Description**: A VBA-based tool for generating multiple plots of river cross-section data in Excel. This project streamlines the visualization process for hydraulic studies, allowing efficient plotting and comparison of cross-sectional data.
+
+5. **GCM Data Analysis using Python**
+   - **Link**: [GCM-Data-Analysis-using-Python](https://github.com/Sazid052/GCM-Data-Analysis-using-Python)
+   - **Description**: An analysis of General Circulation Model (GCM) outputs using Python. The project focuses on extracting and visualizing climate model data, performing trend analysis, and assessing future climate scenarios based on CMIP data.
+
 ## About Me
 
-I am a passionate researcher with a background in Water Resources Engineering, currently working in the fields of climate change analysis, hydrology, and remote sensing. I aim to apply advanced geospatial and machine learning techniques to address pressing environmental challenges.
+I am a passionate researcher with a background in Water Resources Engineering, currently working in the fields of climate change analysis, hydrology, and remote sensing.
 
 ## How to Use
 
