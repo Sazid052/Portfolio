@@ -36,6 +36,6 @@ I am a passionate researcher with a background in Water Resources Engineering, c
 
 ## Future Work
 
-Stay tuned for more projects and updates related to climate risk modeling, water quality assessment, and machine learning applications in environmental science.
+Stay tuned for more projects and updates related to climate change analysis, hydrology, and remote sensing.
 
 Thank you for visiting my portfolio!
