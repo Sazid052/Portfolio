@@ -1,6 +1,6 @@
 # Sazid Bin Sabbir's Portfolio
 
-Welcome to my portfolio repository! This space features my projects, primarily focused on environmental modeling and analysis using remote sensing data and geospatial techniques. Each project showcases a unique application of satellite-based data processing for climate and environmental studies.
+Welcome to my portfolio repository! This space features my projects, primarily focused on environmental analysis using remote sensing data and geospatial techniques. Each project showcases a unique application of satellite-based data processing for climate and environmental studies.
 
 ## Projects
 
