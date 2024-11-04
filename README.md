@@ -18,7 +18,7 @@ Welcome to my portfolio repository! This space features my projects, primarily f
 
 ## About Me
 
-I am a passionate researcher with a background in Water Resources Engineering, currently working in the fields of climate modeling, hydrology, and remote sensing. I aim to apply advanced geospatial and machine learning techniques to address pressing environmental challenges.
+I am a passionate researcher with a background in Water Resources Engineering, currently working in the fields of climate change analysis, hydrology, and remote sensing. I aim to apply advanced geospatial and machine learning techniques to address pressing environmental challenges.
 
 ## How to Use
 
