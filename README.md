@@ -4,9 +4,9 @@ Welcome to my portfolio repository! This space features my projects, primarily f
 
 ## Projects
 
-1. **MODIS Average LST vs Building Density**
-   - **Link**: [MODIS-Average-LST-vs-Building-Density](https://github.com/Sazid052/MODIS-Average-LST-vs-Building-Density)
-   - **Description**: An analysis of the relationship between land surface temperature (LST) and building density using MODIS data. The project explores urban heat patterns and their connection to built environments.
+1. **MODIS Average LST vs Building Volume Analysis**
+   - **Link**: [MODIS-Average-LST-vs-Building-Volume-Analysis](https://github.com/Sazid052/MODIS-Average-LST-vs-Building-Volume-Analysis)
+   - **Description**: An analysis of the relationship between land surface temperature (LST) and building volume using MODIS and GHSL data. The project investigates how urban development influences nighttime heat patterns and performs correlation analysis.
 
 2. **MODIS LST March Mean UHII Timeseries**
    - **Link**: [MODIS-LST-March-mean-UHII-timeseries](https://github.com/Sazid052/MODIS-LST-March-mean-UHII-timeseries)
